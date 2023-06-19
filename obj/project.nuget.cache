@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LqfSxS+AEz98qcgx/H8ceYHi4n+uLDh8zY4QvP5UAk1XrZORwSZlsIvrRcqbOdMy7gt7LxQZHA1RJG+M8GUuiw==",
+  "dgSpecHash": "rT6Ox0OqOR7Yw9J9G5Q8aL3mKsjtzHcwRpvyYNgKgrYHEt5XQqIjZxeY8wJ/Z9uAgps2VUX2fFoMVhkLRjqDJg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bhath\\source\\repos\\aviation2ndphase\\CPCAviationDutyAssignManagement.vbproj",
+  "projectFilePath": "C:\\Users\\bhath\\source\\repos\\AVIATION2\\CPCAviationDutyAssignManagement.vbproj",
   "expectedPackageFiles": [
     "C:\\Users\\bhath\\.nuget\\packages\\closedxml\\0.100.3\\closedxml.0.100.3.nupkg.sha512",
     "C:\\Users\\bhath\\.nuget\\packages\\documentformat.openxml\\2.16.0\\documentformat.openxml.2.16.0.nupkg.sha512",
@@ -108,12 +108,5 @@
     "C:\\Users\\bhath\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\bhath\\.nuget\\packages\\xlparser\\1.5.2\\xlparser.1.5.2.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\bhath\\source\\repos\\aviation2ndphase\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
